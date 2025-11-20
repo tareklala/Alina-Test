@@ -10,4 +10,4 @@ This is a ready-to-run C++ project for **GitHub Codespaces**.
 ```bash
 cmake -S . -B build
 cmake --build build
-./build/MyCppProject
+./build/AlinaTest
