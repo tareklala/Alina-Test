@@ -1,6 +1,6 @@
-# MyCppProject
+# AlinaTest
 
-This is a ready-to-run C++ project for **GitHub Codespaces**.
+This is a test for Alina
 
 ## How to run
 
